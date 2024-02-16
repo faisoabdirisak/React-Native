@@ -1,0 +1,4 @@
+npx create-expo-app@latest projectName
+npx create-expo-app@latest projectname --template blank@sdk-49
+
+npm start
